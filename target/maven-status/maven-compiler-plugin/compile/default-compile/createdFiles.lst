@@ -1,0 +1,13 @@
+com/milinda/mos/orderservice/service/OrderService.class
+com/milinda/mos/orderservice/repository/OrderItemRepository.class
+com/milinda/mos/orderservice/dto/OrderRequest.class
+com/milinda/mos/orderservice/controller/OrderController.class
+com/milinda/mos/orderservice/dto/ProductResponse.class
+com/milinda/mos/orderservice/model/Order.class
+com/milinda/mos/orderservice/dto/OrderResponse.class
+com/milinda/mos/orderservice/repository/OrderRepository.class
+com/milinda/mos/orderservice/OrderServiceApplication.class
+com/milinda/mos/orderservice/model/OrderItem.class
+com/milinda/mos/orderservice/config/RestTemplateConfig.class
+com/milinda/mos/orderservice/dto/OrderItemRequest.class
+com/milinda/mos/orderservice/dto/OrderResponse$OrderItemDto.class
